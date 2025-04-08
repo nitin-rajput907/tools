@@ -474,11 +474,11 @@
         <!-- Top Ad Banner -->
         <div class="ad-container top-ad">
             <!-- Google AdSense Ad Unit -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID"></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-2336142215501706/4350483551"></script>
             <!-- ImageCompressor_Top_Banner -->
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_ADSENSE_ID"
+                 data-ad-client="ca-app-pub-2336142215501706/4350483551"
                  data-ad-slot="YOUR_AD_UNIT_ID"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
@@ -587,11 +587,11 @@
         <!-- Sidebar Ad -->
         <div class="ad-container sidebar-ad">
             <!-- Google AdSense Ad Unit -->
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID"></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-2336142215501706/7445219057"></script>
             <!-- ImageCompressor_Sidebar -->
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_ADSENSE_ID"
+                 data-ad-client="ca-app-pub-2336142215501706/7445219057"
                  data-ad-slot="YOUR_AD_UNIT_ID"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
